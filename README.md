@@ -1,7 +1,7 @@
-## Requirement:<br> 
+## Requirement :<br> 
 <li>OPENGL</li>
 
-## To install <br>
+## To install :<br>
 ``` 
 $ sudo apt-get update
 $ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev 
