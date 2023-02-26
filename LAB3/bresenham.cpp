@@ -1,4 +1,3 @@
-// Create a empty window
 
 #include <iostream>
 #include <GL/glut.h>
